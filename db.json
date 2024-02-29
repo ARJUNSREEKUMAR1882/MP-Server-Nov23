@@ -1,0 +1,164 @@
+{
+  "allVideos": [
+    {
+      "id": "e470",
+      "caption": "REACT",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+      "youtubeLink": "https://www.youtube.com/embed/CgkZ7MvWUAA"
+    },
+    {
+      "id": "4163",
+      "caption": "CSS",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+      "youtubeLink": "https://www.youtube.com/embed/ESnrn1kAD4E"
+    },
+    {
+      "id": "618f",
+      "caption": "JS",
+      "imageURL": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+      "youtubeLink": "https://www.youtube.com/embed/PkZNo7MFNFg"
+    },
+    {
+      "id": "4be2",
+      "caption": "HTML",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2eRQi7XQ7vlk6DFQw7wgoeU9BiNwpqiYCioFAD7M2eK4AN0_GNIPeo74MfufO6Vm-wQ&usqp=CAU",
+      "youtubeLink": "https://www.youtube.com/embed/qz0aGYrrlhU"
+    },
+    {
+      "id": "d3a1",
+      "caption": "MEARN",
+      "imageURL": "https://www.rlogical.com/wp-content/uploads/2023/05/why-choose-mern-stack-for-developing-web-apps.webp",
+      "youtubeLink": "https://www.youtube.com/embed/7CqJlxBYj-M"
+    },
+    {
+      "id": "8f65",
+      "caption": "SUPERMAN",
+      "imageURL": "https://i.pinimg.com/236x/30/1f/5d/301f5da1010ee90cb6172c7120e5fe41.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/weOF9_FGjOk"
+    },
+    {
+      "id": "4388",
+      "caption": "SPIDERMAN",
+      "imageURL": "https://ca-times.brightspotcdn.com/dims4/default/c79bc99/2147483647/strip/false/crop/2576x1449+0+0/resize/1486x836!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F23%2F6cd2aaae41c2be9447f00eb1fe4d%2Fdf-14073-r.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/ZSIzSNvC4mI"
+    },
+    {
+      "id": "da6c",
+      "caption": "KONGvsGOZILLA",
+      "imageURL": "https://m.media-amazon.com/images/S/pv-target-images/770fb419369cb7caae2fda25052323150b530c4f411e942899545ac9a01076fa._SX1080_FMjpg_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/ee9i6oMqShk"
+    }
+  ],
+  "categories": [
+    {
+      "id": "6327",
+      "categoryName": "Front-end-tools",
+      "Videos": [
+        {
+          "id": "d3a1",
+          "caption": "MEARN",
+          "imageURL": "https://www.rlogical.com/wp-content/uploads/2023/05/why-choose-mern-stack-for-developing-web-apps.webp",
+          "youtubeLink": "https://www.youtube.com/embed/7CqJlxBYj-M"
+        },
+        {
+          "id": "618f",
+          "caption": "JS",
+          "imageURL": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+          "youtubeLink": "https://www.youtube.com/embed/PkZNo7MFNFg"
+        },
+        {
+          "id": "e470",
+          "caption": "REACT",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+          "youtubeLink": "https://www.youtube.com/embed/CgkZ7MvWUAA"
+        }
+      ]
+    },
+    {
+      "id": "f0d7",
+      "categoryName": "Trailers",
+      "Videos": [
+        {
+          "id": "4388",
+          "caption": "SPIDERMAN",
+          "imageURL": "https://ca-times.brightspotcdn.com/dims4/default/c79bc99/2147483647/strip/false/crop/2576x1449+0+0/resize/1486x836!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F23%2F6cd2aaae41c2be9447f00eb1fe4d%2Fdf-14073-r.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/ZSIzSNvC4mI"
+        },
+        {
+          "id": "da6c",
+          "caption": "KONGvsGOZILLA",
+          "imageURL": "https://m.media-amazon.com/images/S/pv-target-images/770fb419369cb7caae2fda25052323150b530c4f411e942899545ac9a01076fa._SX1080_FMjpg_.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/ee9i6oMqShk"
+        },
+        {
+          "id": "8f65",
+          "caption": "SUPERMAN",
+          "imageURL": "https://i.pinimg.com/236x/30/1f/5d/301f5da1010ee90cb6172c7120e5fe41.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/weOF9_FGjOk"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "b688",
+      "caption": "MEARN",
+      "youtubeLink": "https://www.youtube.com/embed/7CqJlxBYj-M",
+      "timeStamp": "02/25/2024, 07:58:16 PM"
+    },
+    {
+      "id": "55c0",
+      "caption": "JS",
+      "youtubeLink": "https://www.youtube.com/embed/PkZNo7MFNFg",
+      "timeStamp": "02/25/2024, 07:58:18 PM"
+    },
+    {
+      "id": "c7f8",
+      "caption": "HTML",
+      "youtubeLink": "https://www.youtube.com/embed/qz0aGYrrlhU",
+      "timeStamp": "02/25/2024, 07:58:20 PM"
+    },
+    {
+      "id": "efe6",
+      "caption": "CSS",
+      "youtubeLink": "https://www.youtube.com/embed/ESnrn1kAD4E",
+      "timeStamp": "02/25/2024, 07:58:24 PM"
+    },
+    {
+      "id": "3130",
+      "caption": "REACT",
+      "youtubeLink": "https://www.youtube.com/embed/CgkZ7MvWUAA",
+      "timeStamp": "02/25/2024, 07:58:26 PM"
+    },
+    {
+      "id": "ffc5",
+      "caption": "SPIDERMAN",
+      "youtubeLink": "https://www.youtube.com/embed/ZSIzSNvC4mI",
+      "timeStamp": "02/27/2024, 01:44:18 PM"
+    },
+    {
+      "id": "5992",
+      "caption": "SUPERMAN",
+      "youtubeLink": "https://www.youtube.com/embed/weOF9_FGjOk",
+      "timeStamp": "02/27/2024, 01:44:23 PM"
+    },
+    {
+      "id": "a333",
+      "caption": "REACT",
+      "youtubeLink": "https://www.youtube.com/embed/CgkZ7MvWUAA",
+      "timeStamp": "02/28/2024, 12:22:39 PM"
+    },
+    {
+      "id": "5e75",
+      "caption": "REACT",
+      "youtubeLink": "https://www.youtube.com/embed/CgkZ7MvWUAA",
+      "timeStamp": "02/28/2024, 12:30:56 PM"
+    },
+    {
+      "id": "c023",
+      "caption": "REACT",
+      "youtubeLink": "https://www.youtube.com/embed/CgkZ7MvWUAA",
+      "timeStamp": "02/28/2024, 12:31:12 PM"
+    }
+  ]
+}
